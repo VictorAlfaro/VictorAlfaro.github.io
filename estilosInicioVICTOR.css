@@ -1,0 +1,115 @@
+@charset "utf-8";
+@charset "utf-8";
+/* CSS Document */
+body {
+	background-color:#232323;
+	}
+.header {
+	padding-left:15%;
+	width:85%;
+	height:100px;
+	position:relative;
+	}
+.logoNav {
+	background:pink;
+	position:relative;
+	width:200px;
+	height:100px;
+	left:0px;
+}
+.nav {
+	position:relative;
+	top:-100px;
+	width:90%;
+	left:200px;
+	height:50px;
+	}
+
+.tab {
+	color:white;
+	text-align:center;
+	padding-top:15px;
+	float:left;
+	margin-left:10px;
+	background-color:#484848;
+	border-style: solid;
+    border-width: 2px;
+	border-color:#ffe800;
+	width:200px;
+	height:35px;
+	display:inline-block;
+	}
+.article {
+	clear:both;
+	position:relative;
+	left:15%;
+	width:70%;
+	height:900px;
+	}
+.ventana {
+	border:10px double #ffe800;
+	border-radius:50px;
+	margin-top:3%;
+	display:inline-table;
+	width:400px;
+	margin-left:15%;
+	height:300px;
+	background-color:#484848;
+	background-image:url(source/tiposBoton.png);
+	}
+.ventana2 {
+	border:10px double #ffe800;
+	border-radius:50px;
+	margin-top:3%;
+	display:inline-table;
+	width:400px;
+	margin-left:15%;
+	height:300px;
+	background-color:#484848;
+	background-image:url(source/noticiasBoton.png);
+	}
+.ventana3 {
+	border:10px double #ffe800;
+	border-radius:50px;
+	margin-top:3%;
+	display:inline-table;
+	width:400px;
+	margin-left:15%;
+	height:300px;
+	background-color:#484848;
+	background-image:url(source/nosotrosBoton.png);
+	}
+.ventana4 {
+	border:10px double #ffe800;
+	border-radius:50px;
+	margin-top:3%;
+	display:inline-table;
+	width:400px;
+	margin-left:15%;
+	height:300px;
+	background-color:#484848;
+	background-image:url(source/Media.png);
+	}
+.logrande{
+	margin-left:30%;
+	background:Pink;
+	width:600px;
+	height:300px;
+}
+video{
+	width:720px; 
+	height:475px;
+}
+.footer{
+	text-decoration:none;
+	color:#ffe800;
+	height:20px;
+	background-color:#484848;
+	width:50%;
+	margin:10px;
+	padding:1px;
+	text-align: center;
+    position:fixed;
+	bottom:0;
+	left:25%;
+	}
